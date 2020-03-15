@@ -1,0 +1,5 @@
+﻿  Program 1.cpp
+  programm2.cpp
+D:\Program Files\Opp assignment 1\Opp Assignment 1\Opp Assignment 1\programm2.cpp(113,8): warning C4101: 'str': unreferenced local variable
+  Generating Code...
+  Opp Assignment 1.vcxproj -> D:\Program Files\Opp assignment 1\Opp Assignment 1\Debug\Opp Assignment 1.exe
